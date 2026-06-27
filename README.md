@@ -2,8 +2,11 @@
 ### Curso: Data Visualization — Storytelling con Datos, Paletas de Color y Despliegue Web
 
 Este repositorio contiene la entrega del reto de visualización de datos de energía para América Latina. El dashboard narrativo e interactivo ha sido desarrollado en Python utilizando **Streamlit** y **Plotly** bajo una arquitectura de proyecto limpia y modular.
+### Link del despliegue:
+https://reto12dataviz.streamlit.app/
 
 ---
+
 
 ## 📌 Pregunta Narrativa Central
 > **"América Latina: ¿Crecimiento Verde o Dependencia Fósil? El contraste entre líderes de transición y rezagados (2000-2022)"**
