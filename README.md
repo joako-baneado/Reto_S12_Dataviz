@@ -8,11 +8,11 @@ https://reto12dataviz.streamlit.app/
 ---
 
 #### Integrantes:
-Joaquin Basas
-Joaquin Alvarado
-Alejandro Colfer
-Nathaly Anaya
-Mark Esquivel
+- Joaquin Basas
+- Joaquin Alvarado
+- Alejandro Colfer
+- Nathaly Anaya
+- Mark Esquivel
 
 ---
 
