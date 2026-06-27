@@ -7,6 +7,15 @@ https://reto12dataviz.streamlit.app/
 
 ---
 
+#### Integrantes:
+Joaquin Basas
+Joaquin Alvarado
+Alejandro Colfer
+Nathaly Anaya
+Mark Esquivel
+
+---
+
 
 ## 📌 Pregunta Narrativa Central
 > **"América Latina: ¿Crecimiento Verde o Dependencia Fósil? El contraste entre líderes de transición y rezagados (2000-2022)"**
