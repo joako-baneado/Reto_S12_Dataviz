@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Streamlit ignores
+.streamlit/
+
+# OS and IDE ignores
+.DS_Store
+.vscode/
+.idea/
+.gemini/
+*~
+*.log
